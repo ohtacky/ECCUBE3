@@ -1,0 +1,8 @@
+mail:
+    transport: mail
+    host: 
+    port: 
+    username: 
+    password: 
+    encryption: null
+    auth_mode: null

@@ -1,0 +1,8 @@
+auth_magic: O8hHo4ZMDoKMkYrSB4V1y0N7CUEWhRzH
+password_hash_algos: sha256
+shop_name: テストショップ
+force_ssl: null
+admin_allow_host: {  }
+cookie_lifetime: 0
+locale: ja
+eccube_install: 1
